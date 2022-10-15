@@ -68,7 +68,7 @@ https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows
 - PreProcessing Data
 - Modeling
 - Linear Regression
-- RandomForest
+- RandomForest Regressor
 - XGBoost
 - Deployment
 
